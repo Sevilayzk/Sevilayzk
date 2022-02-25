@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sevilay Zk</h1>
 <h3 align="center">Salesforce Developer</h3>
-<
 
-<p align="justify"> Full time mother, student,wife ,cat lover, Salesforce Developer
+
+<p align="justify"> <b>Full time mother, student,wife ,cat lover, Salesforce Developer</b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
